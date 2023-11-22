@@ -1,2 +1,0 @@
-# Risto
-Template Risto
